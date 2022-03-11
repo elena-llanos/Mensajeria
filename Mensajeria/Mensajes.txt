@@ -1,0 +1,38 @@
+fecha:2015-03-04
+hora:10:45
+para:Aner
+de:Eneritz
+asunto:hitzordua
+contenido:Arratsaldeko 5etan antzokiaren atean.
+******************
+fecha:2016-01-31
+hora:12:15
+para:Eneritz
+de:Aner
+asunto:hitzordua
+contenido:Ok.
+******************
+fecha:2016-04-23
+hora:11:05
+para:Jon
+de:Eneritz
+asunto:aspaldiko
+contenido:Zelan zaude?
+******************
+fecha:2016-04-23
+hora:21:34
+para:Eneritz
+de:Jon
+asunto:aspaldiko
+contenido:Oso ondo eta zu?
+******************
+fecha:2016-04-23
+hora:23:11
+para:Jon
+de:Eneritz
+asunto:aspaldiko
+contenido:Oso ondo. Azterketak bukatzear.
+******************
+
+Mensaje [fecha=12-02-2022, hora=12:23, para=elisa, de=elena, asunto=fresas, contenido=dont forget the fresas]
+----------------
